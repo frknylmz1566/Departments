@@ -1,2 +1,2 @@
 # Departments
-** Thanks a geeksforgeeks.org **
+**Thanks a geeksforgeeks.org**
